@@ -10,9 +10,12 @@ import RealityKit
 import RealityKitContent
 
 struct ContentView_2: View {
+    //let transform: AffineTransform3D
+    //final var anchor: WorldAnchor
     var body: some View {
         Model3D(named: "toy_biplane_idle", bundle: realityKitContentBundle)
             .padding(.bottom, 50)
+            //.transform3DEffect(transform)
     }
 }
 
