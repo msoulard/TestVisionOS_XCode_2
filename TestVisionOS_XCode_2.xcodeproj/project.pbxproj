@@ -13,6 +13,7 @@
 		5F2BD3AD2BA857B400A145C5 /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F2BD3AC2BA857B400A145C5 /* ImmersiveView.swift */; };
 		5F2BD3AF2BA857B500A145C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F2BD3AE2BA857B500A145C5 /* Assets.xcassets */; };
 		5F2BD3B22BA857B500A145C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F2BD3B12BA857B500A145C5 /* Preview Assets.xcassets */; };
+		5F2BD3BA2BA8596100A145C5 /* ContentView_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F2BD3B92BA8596100A145C5 /* ContentView_2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5F2BD3AE2BA857B500A145C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F2BD3B12BA857B500A145C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5F2BD3B32BA857B500A145C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F2BD3B92BA8596100A145C5 /* ContentView_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView_2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				5F2BD3A82BA857B400A145C5 /* TestVisionOS_XCode_2App.swift */,
 				5F2BD3AA2BA857B400A145C5 /* ContentView.swift */,
+				5F2BD3B92BA8596100A145C5 /* ContentView_2.swift */,
 				5F2BD3AC2BA857B400A145C5 /* ImmersiveView.swift */,
 				5F2BD3AE2BA857B500A145C5 /* Assets.xcassets */,
 				5F2BD3B32BA857B500A145C5 /* Info.plist */,
@@ -158,6 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F2BD3AB2BA857B400A145C5 /* ContentView.swift in Sources */,
+				5F2BD3BA2BA8596100A145C5 /* ContentView_2.swift in Sources */,
 				5F2BD3A92BA857B400A145C5 /* TestVisionOS_XCode_2App.swift in Sources */,
 				5F2BD3AD2BA857B400A145C5 /* ImmersiveView.swift in Sources */,
 			);
