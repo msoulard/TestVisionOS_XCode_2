@@ -14,6 +14,7 @@ struct TestVisionOS_XCode_2App: App {
             //var placeholder = PlaceholderContentView()
             ContentView()
             //ContentView_2()
+            //ImmersiveView()
         }.windowStyle(.volumetric)
 
         ImmersiveSpace(id: "ImmersiveSpace") {
