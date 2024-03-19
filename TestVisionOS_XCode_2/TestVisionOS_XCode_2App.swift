@@ -11,8 +11,9 @@ import SwiftUI
 struct TestVisionOS_XCode_2App: App {
     var body: some Scene {
         WindowGroup {
-            //ContentView()
-            ContentView_2()
+            //var placeholder = PlaceholderContentView()
+            ContentView()
+            //ContentView_2()
         }.windowStyle(.volumetric)
 
         ImmersiveSpace(id: "ImmersiveSpace") {
